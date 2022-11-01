@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 
 # Created By: Chris Di Bert
-# Date: Oct. 26, 2022
-# This program outputs the sum of all numbers preceding the user's
-# number using a while loop.
+# Date: Nov. 1, 2022
+# This program calculates the factorial value of an integer.
 
 
 def main():
